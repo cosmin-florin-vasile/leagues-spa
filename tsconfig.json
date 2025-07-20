@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "nodenext",
+    "lib": ["es2015", "dom"],
+    "jsx": "react",
+    "moduleResolution": "bundler",
+    "baseUrl": "./src",
+    "paths": {
+      "*": ["./*"]
+    }
+  }
+}
